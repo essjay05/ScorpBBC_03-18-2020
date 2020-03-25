@@ -1,4 +1,4 @@
-// Challenge 1 of 3 (Easiest)
+// Challenge 1 of 3 (Easiest | 8th Kyu)
 // Given Array of all fam members ages (all whole numbers... 5 months = 0 ) in ANY order
 var ages = [];
 

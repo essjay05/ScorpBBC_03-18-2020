@@ -1,4 +1,4 @@
-// Challenge 3 of 3 (Hardest)
+// Challenge 3 of 3 (Hardest | 5th kyu)
 
 // Perfect power is a classification of positive integers:
     // In math, a perfect power is a positive integer that can be expressed as an integer power
