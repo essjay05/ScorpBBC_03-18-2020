@@ -22,6 +22,13 @@
     //     });
     // });
 
+// Pseudocode:
+    // create array of the sqRoot
+    
+    // takes in integer n
+
+    // check if number has a square root that is an integer
+
 // Solution:
 var isPP = function(n) {
     return null; //fix me
