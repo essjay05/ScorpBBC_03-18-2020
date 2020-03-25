@@ -10,6 +10,24 @@
 // Example:
 // findAll([6, 9 , 3, 4, 3, 82, 11], 3) => [2, 4]
 
+// Pseudocode
+    // Create variable for new nPositions array
+
+    // Loop through the given array
+
+    // Searching for value of n
+
+    // If n is found, push into nPositions array
+
+    // Continue looping through array from current position where n was found until end of array
+
+    // If n is found, push into nPositions array
+
+    // If no n is found, return empty array
+
+
+
+// Solution
 const findAll = (array, n) => {
     // your code goes here
 }
